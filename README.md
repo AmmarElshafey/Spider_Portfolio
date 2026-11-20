@@ -53,6 +53,8 @@ A modern, interactive Personal Portfolio. It shows **who I am**, **what I've bui
 
 </div>
 
+
+
 | Tool | Used for |
 |---|---|
 | ⚛️ React 19 | Building the interface |
