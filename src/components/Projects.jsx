@@ -4,8 +4,8 @@ import React, { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
-import imgSpiderman from '../assets/spiderman/spider.png';
-import imgMan from '../assets/man/ammar.png';
+import imgSpiderman from '../assets/spiderman/spider.webp';
+import imgMan from '../assets/man/ammar.webp';
 
 gsap.registerPlugin(ScrollTrigger);
 
