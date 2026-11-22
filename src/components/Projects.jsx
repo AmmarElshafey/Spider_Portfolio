@@ -12,7 +12,7 @@ gsap.registerPlugin(ScrollTrigger);
 const MISSIONS = [
 {
     id: '01',
-    name: 'Cenima',
+    name: 'Cinema',
     description: 'Cinema Management System with a public movies, admin dashboard, and movie CRUD operations.',
     tech: ['Laravel', 'PHP', 'MySQL','blade','CSS','Bootstarp','JavaScript'],
     image: imgSpiderman,
